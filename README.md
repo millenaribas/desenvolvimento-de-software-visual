@@ -1,2 +1,2 @@
 # desenvolvimento-de-software-visual
-Aula API C#
+Repositório para as aulas de Desenvolvimento de Software Visual com C#.
